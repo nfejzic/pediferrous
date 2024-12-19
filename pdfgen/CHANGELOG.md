@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/pediferrous/pediferrous/compare/pdfgen-v0.2.0...pdfgen-v0.2.1) (2024-12-19)
+
+
+### Bug Fixes
+
+* re-use variable instead of direct env var check in snap macro ([#46](https://github.com/pediferrous/pediferrous/issues/46)) ([9cf99f4](https://github.com/pediferrous/pediferrous/commit/9cf99f4cea53bcf6e83baf5ba7c1eeeec4ccb199))
+
 ## [0.2.0](https://github.com/pediferrous/pediferrous/compare/pdfgen-v0.1.0...pdfgen-v0.2.0) (2024-12-07)
 
 
